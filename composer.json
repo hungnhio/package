@@ -1,0 +1,14 @@
+{
+    "name": "enchance/bleh",
+    "description": "Sample package for KaltenCoder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "enchance",
+            "email": "sample@email.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
